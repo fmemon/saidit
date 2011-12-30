@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 0dbb87b6f470f268174df8602a4f1b208a36c8f1 Your Name <fmemon100@yahoo.com> 1324920620 -0500	commit (initial): Initial commit
+0dbb87b6f470f268174df8602a4f1b208a36c8f1 e2340165301a4a40d9e8626fe4e65646f1949130 Your Name <fmemon100@yahoo.com> 1324920783 -0500	commit: Improved the README
+e2340165301a4a40d9e8626fe4e65646f1949130 5903ae6a84dc19085605587fbb73388841fdf03a Your Name <fmemon100@yahoo.com> 1324923887 -0500	merge static-pages: Fast-forward
+5903ae6a84dc19085605587fbb73388841fdf03a 3698625d9f0bdc47a17d087ac6be4e7cd491c21b Your Name <fmemon100@yahoo.com> 1324924254 -0500	commit: added blueprint and css files; added title application helper
+3698625d9f0bdc47a17d087ac6be4e7cd491c21b 1f95df9dd78c9f907e36e1d1df46b6fede2d9c62 Your Name <fmemon100@yahoo.com> 1324928478 -0500	commit: changes to logo in header
+1f95df9dd78c9f907e36e1d1df46b6fede2d9c62 5175d6d1037ba6a4cce582be42e6cee27ffc6479 Your Name <fmemon100@yahoo.com> 1324928504 -0500	merge filling-in-layout: Merge made by recursive.
+5175d6d1037ba6a4cce582be42e6cee27ffc6479 bcaa081a35d624a3f6963b23720b3cda71914863 Your Name <fmemon100@yahoo.com> 1324929076 -0500	commit: Updated layout_links spec to check for appropriate links
+bcaa081a35d624a3f6963b23720b3cda71914863 295c317d74328d5a1969def4d4eacdd9d9188531 Your Name <fmemon100@yahoo.com> 1324940061 -0500	merge modeling-users: Fast-forward
+295c317d74328d5a1969def4d4eacdd9d9188531 437119b2989af97c4c2db31927c1a352182fd2f5 Your Name <fmemon100@yahoo.com> 1324960068 -0500	merge signing-up: Fast-forward
+437119b2989af97c4c2db31927c1a352182fd2f5 fa2daee3293bab17592d243b1dd24591ce784c96 Your Name <fmemon100@yahoo.com> 1324978658 -0500	merge sign-in-out: Fast-forward
+fa2daee3293bab17592d243b1dd24591ce784c96 16843beaad478e1c95057c55750a2b21a863093e Your Name <fmemon100@yahoo.com> 1325008309 -0500	merge updating-users: Fast-forward
+16843beaad478e1c95057c55750a2b21a863093e 36d9c205c82f716535878f22b44f71049fc98ac4 Your Name <fmemon100@yahoo.com> 1325020201 -0500	merge user-microposts: Fast-forward
+36d9c205c82f716535878f22b44f71049fc98ac4 9a5a2c22e3eaa1360cec7bf1b5b41b6a733fd074 Your Name <fmemon100@yahoo.com> 1325023497 -0500	merge user-micropostsPart2: Fast-forward
+9a5a2c22e3eaa1360cec7bf1b5b41b6a733fd074 cacc37c751ee5c4e1851d4e613e4f81d82f4c4c1 Your Name <fmemon100@yahoo.com> 1325023975 -0500	merge user-micropostsPart3: Fast-forward
+cacc37c751ee5c4e1851d4e613e4f81d82f4c4c1 0d116193179c79a3ae39c23bb34ed8c1a011756d Your Name <fmemon100@yahoo.com> 1325044880 -0500	merge following-users: Fast-forward

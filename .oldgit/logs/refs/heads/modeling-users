@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 bcaa081a35d624a3f6963b23720b3cda71914863 Your Name <fmemon100@yahoo.com> 1324929110 -0500	branch: Created from HEAD
+bcaa081a35d624a3f6963b23720b3cda71914863 399459f0c841c02ca685e7f74b16e6db0d854d13 Your Name <fmemon100@yahoo.com> 1324932315 -0500	commit: Finished first cut of the User model
+399459f0c841c02ca685e7f74b16e6db0d854d13 295c317d74328d5a1969def4d4eacdd9d9188531 Your Name <fmemon100@yahoo.com> 1324940032 -0500	commit: User model with passwords, and user show page

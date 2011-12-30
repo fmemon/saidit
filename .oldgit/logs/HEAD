@@ -1,0 +1,53 @@
+0000000000000000000000000000000000000000 0dbb87b6f470f268174df8602a4f1b208a36c8f1 Your Name <fmemon100@yahoo.com> 1324920620 -0500	commit (initial): Initial commit
+0dbb87b6f470f268174df8602a4f1b208a36c8f1 e2340165301a4a40d9e8626fe4e65646f1949130 Your Name <fmemon100@yahoo.com> 1324920783 -0500	commit: Improved the README
+e2340165301a4a40d9e8626fe4e65646f1949130 e2340165301a4a40d9e8626fe4e65646f1949130 Your Name <fmemon100@yahoo.com> 1324920949 -0500	checkout: moving from master to static-pages
+e2340165301a4a40d9e8626fe4e65646f1949130 0d41478193050d9329f7ec158e12ed1302223a09 Your Name <fmemon100@yahoo.com> 1324921205 -0500	commit: Added a Pages controller
+0d41478193050d9329f7ec158e12ed1302223a09 5903ae6a84dc19085605587fbb73388841fdf03a Your Name <fmemon100@yahoo.com> 1324923804 -0500	commit: Added dynamic titles
+5903ae6a84dc19085605587fbb73388841fdf03a e2340165301a4a40d9e8626fe4e65646f1949130 Your Name <fmemon100@yahoo.com> 1324923886 -0500	checkout: moving from static-pages to master
+e2340165301a4a40d9e8626fe4e65646f1949130 5903ae6a84dc19085605587fbb73388841fdf03a Your Name <fmemon100@yahoo.com> 1324923887 -0500	merge static-pages: Fast-forward
+5903ae6a84dc19085605587fbb73388841fdf03a 3698625d9f0bdc47a17d087ac6be4e7cd491c21b Your Name <fmemon100@yahoo.com> 1324924254 -0500	commit: added blueprint and css files; added title application helper
+3698625d9f0bdc47a17d087ac6be4e7cd491c21b 3698625d9f0bdc47a17d087ac6be4e7cd491c21b Your Name <fmemon100@yahoo.com> 1324924325 -0500	checkout: moving from master to filling-in-layout
+3698625d9f0bdc47a17d087ac6be4e7cd491c21b c5c1e282cbd96c74cd37bdc58cca49e171a2ae45 Your Name <fmemon100@yahoo.com> 1324925646 -0500	commit: Removed the default index.html page
+c5c1e282cbd96c74cd37bdc58cca49e171a2ae45 0554dfe360035fe9aa4f5cf19c8e583d95a25b9c Your Name <fmemon100@yahoo.com> 1324928132 -0500	commit: Finished layout and routes
+0554dfe360035fe9aa4f5cf19c8e583d95a25b9c 3698625d9f0bdc47a17d087ac6be4e7cd491c21b Your Name <fmemon100@yahoo.com> 1324928138 -0500	checkout: moving from filling-in-layout to master
+3698625d9f0bdc47a17d087ac6be4e7cd491c21b 1f95df9dd78c9f907e36e1d1df46b6fede2d9c62 Your Name <fmemon100@yahoo.com> 1324928478 -0500	commit: changes to logo in header
+1f95df9dd78c9f907e36e1d1df46b6fede2d9c62 1f95df9dd78c9f907e36e1d1df46b6fede2d9c62 Your Name <fmemon100@yahoo.com> 1324928494 -0500	checkout: moving from master to master
+1f95df9dd78c9f907e36e1d1df46b6fede2d9c62 5175d6d1037ba6a4cce582be42e6cee27ffc6479 Your Name <fmemon100@yahoo.com> 1324928504 -0500	merge filling-in-layout: Merge made by recursive.
+5175d6d1037ba6a4cce582be42e6cee27ffc6479 bcaa081a35d624a3f6963b23720b3cda71914863 Your Name <fmemon100@yahoo.com> 1324929076 -0500	commit: Updated layout_links spec to check for appropriate links
+bcaa081a35d624a3f6963b23720b3cda71914863 bcaa081a35d624a3f6963b23720b3cda71914863 Your Name <fmemon100@yahoo.com> 1324929097 -0500	checkout: moving from master to master
+bcaa081a35d624a3f6963b23720b3cda71914863 bcaa081a35d624a3f6963b23720b3cda71914863 Your Name <fmemon100@yahoo.com> 1324929110 -0500	checkout: moving from master to modeling-users
+bcaa081a35d624a3f6963b23720b3cda71914863 399459f0c841c02ca685e7f74b16e6db0d854d13 Your Name <fmemon100@yahoo.com> 1324932315 -0500	commit: Finished first cut of the User model
+399459f0c841c02ca685e7f74b16e6db0d854d13 295c317d74328d5a1969def4d4eacdd9d9188531 Your Name <fmemon100@yahoo.com> 1324940032 -0500	commit: User model with passwords, and user show page
+295c317d74328d5a1969def4d4eacdd9d9188531 bcaa081a35d624a3f6963b23720b3cda71914863 Your Name <fmemon100@yahoo.com> 1324940040 -0500	checkout: moving from modeling-users to master
+bcaa081a35d624a3f6963b23720b3cda71914863 295c317d74328d5a1969def4d4eacdd9d9188531 Your Name <fmemon100@yahoo.com> 1324940061 -0500	merge modeling-users: Fast-forward
+295c317d74328d5a1969def4d4eacdd9d9188531 295c317d74328d5a1969def4d4eacdd9d9188531 Your Name <fmemon100@yahoo.com> 1324955708 -0500	checkout: moving from master to modeling-users
+295c317d74328d5a1969def4d4eacdd9d9188531 295c317d74328d5a1969def4d4eacdd9d9188531 Your Name <fmemon100@yahoo.com> 1324956979 -0500	checkout: moving from modeling-users to master
+295c317d74328d5a1969def4d4eacdd9d9188531 295c317d74328d5a1969def4d4eacdd9d9188531 Your Name <fmemon100@yahoo.com> 1324957006 -0500	checkout: moving from master to master
+295c317d74328d5a1969def4d4eacdd9d9188531 295c317d74328d5a1969def4d4eacdd9d9188531 Your Name <fmemon100@yahoo.com> 1324957020 -0500	checkout: moving from master to signing-up
+295c317d74328d5a1969def4d4eacdd9d9188531 437119b2989af97c4c2db31927c1a352182fd2f5 Your Name <fmemon100@yahoo.com> 1324960054 -0500	commit: User signup complete
+437119b2989af97c4c2db31927c1a352182fd2f5 295c317d74328d5a1969def4d4eacdd9d9188531 Your Name <fmemon100@yahoo.com> 1324960061 -0500	checkout: moving from signing-up to master
+295c317d74328d5a1969def4d4eacdd9d9188531 437119b2989af97c4c2db31927c1a352182fd2f5 Your Name <fmemon100@yahoo.com> 1324960068 -0500	merge signing-up: Fast-forward
+437119b2989af97c4c2db31927c1a352182fd2f5 437119b2989af97c4c2db31927c1a352182fd2f5 Your Name <fmemon100@yahoo.com> 1324960109 -0500	checkout: moving from master to sign-in-out
+437119b2989af97c4c2db31927c1a352182fd2f5 fa2daee3293bab17592d243b1dd24591ce784c96 Your Name <fmemon100@yahoo.com> 1324978643 -0500	commit: Done with sign in
+fa2daee3293bab17592d243b1dd24591ce784c96 437119b2989af97c4c2db31927c1a352182fd2f5 Your Name <fmemon100@yahoo.com> 1324978651 -0500	checkout: moving from sign-in-out to master
+437119b2989af97c4c2db31927c1a352182fd2f5 fa2daee3293bab17592d243b1dd24591ce784c96 Your Name <fmemon100@yahoo.com> 1324978658 -0500	merge sign-in-out: Fast-forward
+fa2daee3293bab17592d243b1dd24591ce784c96 fa2daee3293bab17592d243b1dd24591ce784c96 Your Name <fmemon100@yahoo.com> 1324978707 -0500	checkout: moving from master to updating-users
+fa2daee3293bab17592d243b1dd24591ce784c96 16843beaad478e1c95057c55750a2b21a863093e Your Name <fmemon100@yahoo.com> 1325008296 -0500	commit: Done with user edit/update, index, and destroy actions
+16843beaad478e1c95057c55750a2b21a863093e fa2daee3293bab17592d243b1dd24591ce784c96 Your Name <fmemon100@yahoo.com> 1325008303 -0500	checkout: moving from updating-users to master
+fa2daee3293bab17592d243b1dd24591ce784c96 16843beaad478e1c95057c55750a2b21a863093e Your Name <fmemon100@yahoo.com> 1325008309 -0500	merge updating-users: Fast-forward
+16843beaad478e1c95057c55750a2b21a863093e 16843beaad478e1c95057c55750a2b21a863093e Your Name <fmemon100@yahoo.com> 1325008353 -0500	checkout: moving from master to user-microposts
+16843beaad478e1c95057c55750a2b21a863093e 36d9c205c82f716535878f22b44f71049fc98ac4 Your Name <fmemon100@yahoo.com> 1325020184 -0500	commit: added the microposts up to a point when all tests 107 passed
+36d9c205c82f716535878f22b44f71049fc98ac4 16843beaad478e1c95057c55750a2b21a863093e Your Name <fmemon100@yahoo.com> 1325020190 -0500	checkout: moving from user-microposts to master
+16843beaad478e1c95057c55750a2b21a863093e 36d9c205c82f716535878f22b44f71049fc98ac4 Your Name <fmemon100@yahoo.com> 1325020201 -0500	merge user-microposts: Fast-forward
+36d9c205c82f716535878f22b44f71049fc98ac4 36d9c205c82f716535878f22b44f71049fc98ac4 Your Name <fmemon100@yahoo.com> 1325020224 -0500	checkout: moving from master to user-micropostsPart2
+36d9c205c82f716535878f22b44f71049fc98ac4 9a5a2c22e3eaa1360cec7bf1b5b41b6a733fd074 Your Name <fmemon100@yahoo.com> 1325023481 -0500	commit: tested and working microposts feed
+9a5a2c22e3eaa1360cec7bf1b5b41b6a733fd074 36d9c205c82f716535878f22b44f71049fc98ac4 Your Name <fmemon100@yahoo.com> 1325023486 -0500	checkout: moving from user-micropostsPart2 to master
+36d9c205c82f716535878f22b44f71049fc98ac4 9a5a2c22e3eaa1360cec7bf1b5b41b6a733fd074 Your Name <fmemon100@yahoo.com> 1325023497 -0500	merge user-micropostsPart2: Fast-forward
+9a5a2c22e3eaa1360cec7bf1b5b41b6a733fd074 9a5a2c22e3eaa1360cec7bf1b5b41b6a733fd074 Your Name <fmemon100@yahoo.com> 1325023514 -0500	checkout: moving from master to user-micropostsPart3
+9a5a2c22e3eaa1360cec7bf1b5b41b6a733fd074 cacc37c751ee5c4e1851d4e613e4f81d82f4c4c1 Your Name <fmemon100@yahoo.com> 1325023960 -0500	commit: added user microposts integration tests
+cacc37c751ee5c4e1851d4e613e4f81d82f4c4c1 9a5a2c22e3eaa1360cec7bf1b5b41b6a733fd074 Your Name <fmemon100@yahoo.com> 1325023965 -0500	checkout: moving from user-micropostsPart3 to master
+9a5a2c22e3eaa1360cec7bf1b5b41b6a733fd074 cacc37c751ee5c4e1851d4e613e4f81d82f4c4c1 Your Name <fmemon100@yahoo.com> 1325023975 -0500	merge user-micropostsPart3: Fast-forward
+cacc37c751ee5c4e1851d4e613e4f81d82f4c4c1 cacc37c751ee5c4e1851d4e613e4f81d82f4c4c1 Your Name <fmemon100@yahoo.com> 1325024012 -0500	checkout: moving from master to following-users
+cacc37c751ee5c4e1851d4e613e4f81d82f4c4c1 0d116193179c79a3ae39c23bb34ed8c1a011756d Your Name <fmemon100@yahoo.com> 1325044857 -0500	commit: added in followers, following, and status
+0d116193179c79a3ae39c23bb34ed8c1a011756d cacc37c751ee5c4e1851d4e613e4f81d82f4c4c1 Your Name <fmemon100@yahoo.com> 1325044861 -0500	checkout: moving from following-users to master
+cacc37c751ee5c4e1851d4e613e4f81d82f4c4c1 0d116193179c79a3ae39c23bb34ed8c1a011756d Your Name <fmemon100@yahoo.com> 1325044880 -0500	merge following-users: Fast-forward
